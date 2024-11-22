@@ -1,0 +1,5 @@
+%{
+Это структура App
+%}
+def Version := "1.2"
+def Features := [ "Login" "Signup" "Profile" ]

@@ -1,0 +1,4 @@
+Database:
+  Name: "TestDB"
+  MaxConnections: 100
+  Ports: [5432, 5433, 5434]

@@ -1,0 +1,6 @@
+App:
+  Version: "1.2"
+  Features:
+    - "Login"
+    - "Signup"
+    - "Profile"
